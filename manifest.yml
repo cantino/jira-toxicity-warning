@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: toxicity-warning-panel
+      function: main
+      title: Toxicity Warning
+      description: A hello world issue panel.
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/41920409-b984-47a3-945a-ab6b92498eb7'
+  name: Toxicity Warning
