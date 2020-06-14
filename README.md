@@ -1,11 +1,14 @@
-# Toxicity Warning Trello Power-Up
+![foo](images/logo-small.png)
 
-Help your team avoid a toxic culture by identifying Trello Cards that could come across as insulting, threatening, or otherwise toxic... using machine learning.
+# Toxicity Warning Jira Issue Panel
 
-All analysis happens locally using neural networks running in your browser with TensorFlow.js and your GPU.
+Help your team avoid a toxic culture by identifying Jira Issues that could come across as insulting, threatening, or otherwise toxic... using machine learning.
+
+Analysis is performed with TensorFlow.js in the cloud.
 
 ## Technology
 
+* Atlassian Forge
 * TensorFlow.js
 * TF Toxicity classifier
 
